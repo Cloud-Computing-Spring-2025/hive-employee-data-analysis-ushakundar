@@ -1,23 +1,16 @@
 ranked.emp_id,ranked.name,ranked.salary,ranked.department,ranked.rank
-781,Robert Coleman,149758.5,Finance,1
-781,Robert Coleman,149758.5,Finance,1
-954,Amy Ortega,149501.9,Finance,3
-954,Amy Ortega,149501.9,Finance,3
-656,Steven Cole,148918.83,HR,1
-656,Steven Cole,148918.83,HR,1
-298,Thomas Nguyen,148805.24,HR,3
-298,Thomas Nguyen,148805.24,HR,3
-665,Frederick Fuller,149392.32,IT,1
-665,Frederick Fuller,149392.32,IT,1
-819,Laura Hall,148375.38,IT,3
-819,Laura Hall,148375.38,IT,3
-582,Gabriel Buck,149940.76,Marketing,1
-582,Gabriel Buck,149940.76,Marketing,1
-588,Laurie Brandt,149456.72,Marketing,3
-588,Laurie Brandt,149456.72,Marketing,3
-745,Anthony Smith,149633.32,Operations,1
-745,Anthony Smith,149633.32,Operations,1
-783,Jeffrey Watkins,149395.56,Operations,3
-783,Jeffrey Watkins,149395.56,Operations,3
-NULL,name,NULL,department,1
-NULL,name,NULL,department,1
+722,Robert Roy,149413.78,Finance,1
+959,Edward Simpson,147764.44,Finance,2
+113,Robert Salazar,147726.76,Finance,3
+227,Lisa Richards,149610.66,HR,1
+523,Richard Palmer,149305.22,HR,2
+717,Valerie Hooper,149178.56,HR,3
+949,Bailey Harmon,149195.28,IT,1
+9,Heather James,148601.89,IT,2
+397,Kyle Gibson,148476.87,IT,3
+594,Eileen Alvarez,148153.57,Marketing,1
+305,Mr. Bernard Boyd,147119.6,Marketing,2
+675,Susan Schmidt,147083.37,Marketing,3
+724,Kelly Bradford,149587.7,Operations,1
+420,Vanessa Vasquez,149392.46,Operations,2
+542,Jenny Miller,148813.68,Operations,3
